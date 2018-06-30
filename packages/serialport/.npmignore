@@ -24,10 +24,18 @@ test/
 UPGRADE_GUIDE.md
 
 # MIRRORED FROM .gitignore PLEASE MAINTAIN
+.DS_Store
 .mailmap
 build/
+changelog.md
 coverage
+docs
 node_modules
 npm-debug.log
 package-lock.json
 prebuilds
+test-arduino
+test-electron
+test-manual
+test/
+UPGRADE_GUIDE.md
